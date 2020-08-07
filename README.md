@@ -7,7 +7,7 @@ Capstone Project Course about data analysis
 ### Final project Week 4 and Week 5 has 2 main files:
 ##### Capstone_Final
 ##### Hongyu_Capstone_report
-For week 5, the report is presented in format of HTML, therefore also serves as presentation
+For week 5, the report is presented in format of both HTML and PDF, therefore can also be used as a presentation
 
 
 Any questions please contact Hongyu (hc502@aol.com), thanks!
